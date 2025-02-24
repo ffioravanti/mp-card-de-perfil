@@ -3,12 +3,12 @@ Este mini projeto consiste em um **card de perfil interativo** estilizado com **
 
 ## 🔨 Requisitos
 
-- Criar um componente de Card de Perfil que contenha:
-- Foto do usuário
-- Nome e cargo
-- Ícones das redes sociais
-- Botão de mensagem estilizado
-- Estatísticas (projetos, palestras, artigos e seguidores)
+   Criar um componente de Card de Perfil que contenha:
+   - Foto do usuário
+   - Nome e cargo
+   - Ícones das redes sociais
+   - Botão de mensagem estilizado
+   - Estatísticas (projetos, palestras, artigos e seguidores)
 
 ## 🔨 Desafio extra para quem quer ir além
 
@@ -31,4 +31,3 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 ### Tailwind CSS
 - Utilização de classes utilitárias
 - Responsividade e estilização avançada
-
