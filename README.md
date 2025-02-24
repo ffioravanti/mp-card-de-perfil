@@ -1,29 +1,20 @@
 # Nome do Mini Projeto
-
-(um parágrafo explicando)
-
-## 🤓 Antes de começar
-
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Este mini projeto consiste em um **card de perfil interativo** estilizado com **Tailwind CSS**. Ele exibe informações do usuário, incluindo foto, nome, cargo, redes sociais e métricas como número de projetos, palestras, artigos e seguidores.
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
-
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
-
-- Requisito 3
-- ...
+- Criar um componente de Card de Perfil que contenha:
+- Foto do usuário
+- Nome e cargo
+- Ícones das redes sociais
+- Botão de mensagem estilizado
+- Estatísticas (projetos, palestras, artigos e seguidores)
 
 ## 🔨 Desafio extra para quem quer ir além
 
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
+- Criar uma versão responsiva para diferentes tamanhos de tela.
+- Adicionar animações sutis com Tailwind CSS.
+- Fazer a integração dos botões das redes sociais com links reais.
 
 ## 🎨 Design Sugerido
 
@@ -31,21 +22,13 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1475945236072799046)
 
 ## 👉🏽 Sobre esse mini-projeto
 
 ### O que você irá praticar:
 
-#### React
+### Tailwind CSS
+- Utilização de classes utilitárias
+- Responsividade e estilização avançada
 
-- Habilidade 1 do React
-- Habilidade 2
-
-#### TailwindCSS
-
-- Habilidade 1 do TailwindCSS
-
-### Pré requisitos
-
-(coloque aqui se houver algum)
