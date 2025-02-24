@@ -1,4 +1,4 @@
-# Nome do Mini Projeto
+# Card de perfil com Tailwind CSS
 Este mini projeto consiste em um **card de perfil interativo** estilizado com **Tailwind CSS**. Ele exibe informações do usuário, incluindo foto, nome, cargo, redes sociais e métricas como número de projetos, palestras, artigos e seguidores.
 
 ## 🔨 Requisitos
