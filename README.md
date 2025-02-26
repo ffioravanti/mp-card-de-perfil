@@ -30,4 +30,4 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Tailwind CSS
 - Utilização de classes utilitárias
-- Responsividade e estilização avançada
+- Responsividade
