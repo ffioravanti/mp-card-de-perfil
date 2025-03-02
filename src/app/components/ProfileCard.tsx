@@ -1,12 +1,15 @@
 import { FaGithub, FaTwitter, FaFacebook, FaEnvelope } from "react-icons/fa";
+import Image from "next/image";
 
 const ProfileCard = () => {
   return (
     <div className="flex flex-col md:items-center gap-3 bg-white md:p-6 p-5 rounded-lg shadow-md shadow-zinc-400">
       <div className="flex flex-col items-center md:flex md:flex-row md:gap-6">
-        <img
-          src="/felipe.png"
+        <Image
+          src="/static/images/felipe.jpg"
           alt="profile picture"
+          width={800}
+          height={500}
           className="md:hover:opacity-80 md:size-32 size-24 rounded-full object-cover hover:cursor-pointer transform transition-transform duration-300 hover:scale-102 md:hover:scale-108 hover:z-50 md:hover:shadow-xl hover:shadow-lg origin-bottom"
         />
         <div className="flex flex-col relative">
