@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const ProfileCard = () => {
   return (
-    <div className="flex flex-col md:items-center gap-3 bg-white md:p-6 p-5 rounded-lg shadow-md shadow-zinc-400">
+    <div className="flex flex-col md:items-center gap-3 bg-white md:p-8 p-5 rounded-lg shadow-md shadow-zinc-400">
       <div className="flex flex-col items-center md:flex md:flex-row md:gap-6">
         <Image
           src="/static/images/felipe.jpg"
