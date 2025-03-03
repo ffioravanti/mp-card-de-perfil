@@ -18,7 +18,7 @@ const ProfileCard = () => {
               Felipe Fioravanti
             </h2>
             <p className="text-gray-500 text-xs">Software Developer</p>
-            <div className="flex md:flex-row gap-1.5 mt-1 justify-center md:justify-start">
+            <div className="text-gray-200 flex md:flex-row gap-1.5 mt-1 justify-center md:justify-start">
               <a
                 href="https://github.com/ffioravanti"
                 className="text-lg hover:text-gray-600"
@@ -40,7 +40,7 @@ const ProfileCard = () => {
             </div>
           </div>
           <div
-            className="z-50 md:top-0 md:left-0 absolute bottom-22 left-22 md:relative
+            className="text-white z-50 md:top-0 md:left-0 absolute bottom-22 left-22 md:relative
           inline-flex self-start items-center md:hover:opacity-80 rounded-sm bg-purple-600 mt-2 p-1.5 md:px-3 md:py-1 font-semibold text-sm cursor-pointer transition-all md:gap-2"
           >
             <FaEnvelope className="text-md" />
@@ -48,7 +48,7 @@ const ProfileCard = () => {
           </div>
         </div>
       </div>
-      <hr className="md:w-3xs" aria-orientation="vertical" />
+      <hr className="md:w-3xs text-gray-200" aria-orientation="vertical" />
       <div className="grid grid-cols-2 gap-2 md:grid-cols-4">
         <div className="flex flex-col items-center group">
           <h3 className="font-bold text-lg text-purple-600 transition-transform duration-200 group-hover:scale-110 cursor-pointer">
